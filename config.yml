@@ -1,0 +1,225 @@
+token: "MTI0OTQ0NTk5OTIyNzcwMzQwMA.GAzKFw.pAmt70BLdfDQc90UTbLFEBNqIB9kIrM1h4z3P0"
+status: ""
+
+owners:
+  - "609919948436930572"
+
+log_channel_id: ""
+
+embed_content:
+ 
+  title: "Support Embed Title"
+
+ 
+  color: "50ff38"
+
+  image:
+    enabled: false
+    url: ""
+
+  thumbnail:
+    enabled: false
+    url: ""
+
+questions:
+  - question: "How to become staff for BloxCentral?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "You would need to join [BloxCentral Discord](https://www.discord.gg/pZ2ey5sbdg) and go to their jobs channel."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+
+  - question: "How to become staff for SplashBay?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "You would need to join their group then their application center to get trainee, anything higher can be obtain by joining a shift/training or going to the rank center."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Where can I fine more information about BloxCentral?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "We suggest going to <#1131481061591896105>."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Where can I fine more information about SplashBay?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "We suggest going to <#1013510489927602188>."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Does BloxCentral take support ticket regarding SplashBay?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "No, SplashBay is it own group with their own support team."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Does BloxCentral take support ticket regarding USMS?"
+    response:
+      
+      title: "Response:"
+     
+      color: "50ff38"
+      
+      description: "Yes, BloxCentral only take IA Reports, everything else goes though their support team."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Question 7"
+    response:
+      
+      title: "Response 7"
+     
+      color: "50ff38"
+      
+      description: "Nothing here yet."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Question 8"
+    response:
+      
+      title: "Response 8"
+     
+      color: "50ff38"
+      
+      description: "Nothing here yet."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Question 9"
+    response:
+      
+      title: "Response 9"
+     
+      color: "50ff38"
+      
+      description: "Nothing here yet."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
+  - question: "Question 10"
+    response:
+      
+      title: "Response 10"
+     
+      color: "50ff38"
+      
+      description: "Nothing here yet."
+
+      image:
+        
+        enabled: false
+        
+        url: ""
+
+      thumbnail:
+        
+        enabled: false
+        
+        url: ""
